@@ -41,6 +41,14 @@
 
 ---
 
+### 🚀 Featured projects
+
+| Project | Description | Stack |
+|---|---|---|
+| [**World Cup Predictor**](https://github.com/ViktorGustafssn/world-cup-predictor) | Prediction game for the 2026 World Cup. Live scores from an external football API, automatic scoring and a live leaderboard, bonus predictions and a guestbook. | React · Tailwind · Firebase · Vercel |
+
+---
+
 ### 📫 Get in touch
 
 The easiest way to reach me is through [LinkedIn](https://www.linkedin.com/in/viktor-gustafsson-63023519a/).
